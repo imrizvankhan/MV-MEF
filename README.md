@@ -6,4 +6,5 @@ Here is the prelimenary implementation guideline towards our work where "ILL-ILL
 #VLFEAT library (www.vlfeat.org/)
 #Learning-based Backlit Image Restoration project.
 #Scale invariatn feature transform (SIFT Descriptor )
+#Multi Exposure fusion for large exposures
 
